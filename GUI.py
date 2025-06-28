@@ -1,6 +1,6 @@
 #COMMENTS ARE CREATED USING AI
 
-# from matplotlib.figure import Figure  # Used to create figure objects for plotting charts in matplotlib.
+from matplotlib.figure import Figure  # Used to create figure objects for plotting charts in matplotlib.
 import tkinter as tk  # Standard Python library for creating GUI applications.
 from tkinter import ttk, scrolledtext, messagebox  # ttk: themed widgets; scrolledtext: text widget with scrollbar; messagebox: popup dialogs.
 import yfinance as yf  # Library to fetch financial data directly from Yahoo Finance.
