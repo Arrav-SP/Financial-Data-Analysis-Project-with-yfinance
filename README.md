@@ -48,6 +48,6 @@ This project is open-source and free to use for learning, research, or personal 
 
 ## Author
 
-Developed by [Your Name]. Inspired by a hands-on, self-directed learning approach to app development and financial data analysis.
+Developed by Arav Singh Patel(With help from perplexity.ai). Inspired by a hands-on, self-directed learning approach to app development and financial data analysis.
 
 **Feel free to fork, modify, or extend this project!**
